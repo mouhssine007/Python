@@ -1,5 +1,5 @@
 a = input("Please enter Num a: ")
-
+a = int(a)
 b = input("Please enter Number b: ")
-
+b= int(b)
 print(a + b)
